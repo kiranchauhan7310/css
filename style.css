@@ -1,0 +1,16 @@
+img {
+    height: 300px;
+    border-radius: 5%;
+    border: 2px solid rebeccapurple;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-family: cursive;
+    text-align: center;
+    color: rebeccapurple;
+}
+
+p {
+    text-align: center;
+}
